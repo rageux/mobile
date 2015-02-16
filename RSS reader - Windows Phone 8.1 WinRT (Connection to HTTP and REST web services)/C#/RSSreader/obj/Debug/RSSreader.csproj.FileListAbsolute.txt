@@ -1,0 +1,74 @@
+c:\users\zayen\documents\visual studio 2013\Projects\RSSreader\RSSreader\bin\Debug\App.xbf
+c:\users\zayen\documents\visual studio 2013\Projects\RSSreader\RSSreader\bin\Debug\MainPage.xbf
+c:\users\zayen\documents\visual studio 2013\Projects\RSSreader\RSSreader\bin\Debug\RSSreader.xr.xml
+c:\users\zayen\documents\visual studio 2013\Projects\RSSreader\RSSreader\bin\Debug\RSSreader.exe
+c:\users\zayen\documents\visual studio 2013\Projects\RSSreader\RSSreader\bin\Debug\RSSreader.pdb
+c:\users\zayen\documents\visual studio 2013\Projects\RSSreader\RSSreader\bin\Debug\resources.pri
+c:\users\zayen\documents\visual studio 2013\Projects\RSSreader\RSSreader\bin\Debug\AppxManifest.xml
+c:\users\zayen\documents\visual studio 2013\Projects\RSSreader\RSSreader\bin\Debug\RSSreader.build.appxrecipe
+c:\users\zayen\documents\visual studio 2013\Projects\RSSreader\RSSreader\obj\Debug\App.g.i.cs
+c:\users\zayen\documents\visual studio 2013\Projects\RSSreader\RSSreader\obj\Debug\App.g.cs
+c:\users\zayen\documents\visual studio 2013\Projects\RSSreader\RSSreader\obj\Debug\MainPage.g.i.cs
+c:\users\zayen\documents\visual studio 2013\Projects\RSSreader\RSSreader\obj\Debug\MainPage.g.cs
+c:\users\zayen\documents\visual studio 2013\Projects\RSSreader\RSSreader\obj\Debug\XamlTypeInfo.g.cs
+c:\users\zayen\documents\visual studio 2013\Projects\RSSreader\RSSreader\obj\Debug\App.xaml
+c:\users\zayen\documents\visual studio 2013\Projects\RSSreader\RSSreader\obj\Debug\App.xbf
+c:\users\zayen\documents\visual studio 2013\Projects\RSSreader\RSSreader\obj\Debug\XamlSaveStateFile.xml
+c:\users\zayen\documents\visual studio 2013\Projects\RSSreader\RSSreader\obj\Debug\MainPage.xaml
+c:\users\zayen\documents\visual studio 2013\Projects\RSSreader\RSSreader\obj\Debug\MainPage.xbf
+c:\users\zayen\documents\visual studio 2013\Projects\RSSreader\RSSreader\obj\Debug\RSSreader.exe
+c:\users\zayen\documents\visual studio 2013\Projects\RSSreader\RSSreader\obj\Debug\RSSreader.pdb
+c:\users\zayen\documents\visual studio 2013\Projects\RSSreader\RSSreader\obj\Debug\priconfig.xml
+c:\users\zayen\documents\visual studio 2013\Projects\RSSreader\RSSreader\obj\Debug\priconfig.xml.intermediate
+c:\users\zayen\documents\visual studio 2013\Projects\RSSreader\RSSreader\obj\Debug\layout.resfiles
+c:\users\zayen\documents\visual studio 2013\Projects\RSSreader\RSSreader\obj\Debug\layout.resfiles.intermediate
+c:\users\zayen\documents\visual studio 2013\Projects\RSSreader\RSSreader\obj\Debug\resources.resfiles
+c:\users\zayen\documents\visual studio 2013\Projects\RSSreader\RSSreader\obj\Debug\resources.resfiles.intermediate
+c:\users\zayen\documents\visual studio 2013\Projects\RSSreader\RSSreader\obj\Debug\pri.resfiles
+c:\users\zayen\documents\visual studio 2013\Projects\RSSreader\RSSreader\obj\Debug\pri.resfiles.intermediate
+c:\users\zayen\documents\visual studio 2013\Projects\RSSreader\RSSreader\obj\Debug\qualifiers.txt
+c:\users\zayen\documents\visual studio 2013\Projects\RSSreader\RSSreader\obj\Debug\qualifiers.txt.intermediate
+c:\users\zayen\documents\visual studio 2013\Projects\RSSreader\RSSreader\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\zayen\documents\visual studio 2013\Projects\RSSreader\RSSreader\obj\Debug\ProjectArchitectures.txt
+C:\Users\eklein\Downloads\RSS reader - Windows Phone 8.1 WinRT (Connection to HTTP and REST web services)\C#\RSSreader\bin\Debug\App.xbf
+C:\Users\eklein\Downloads\RSS reader - Windows Phone 8.1 WinRT (Connection to HTTP and REST web services)\C#\RSSreader\bin\Debug\MainPage.xbf
+C:\Users\eklein\Downloads\RSS reader - Windows Phone 8.1 WinRT (Connection to HTTP and REST web services)\C#\RSSreader\bin\Debug\RSSreader.xr.xml
+C:\Users\eklein\Downloads\RSS reader - Windows Phone 8.1 WinRT (Connection to HTTP and REST web services)\C#\RSSreader\bin\Debug\RSSreader.exe
+C:\Users\eklein\Downloads\RSS reader - Windows Phone 8.1 WinRT (Connection to HTTP and REST web services)\C#\RSSreader\bin\Debug\RSSreader.pdb
+C:\Users\eklein\Downloads\RSS reader - Windows Phone 8.1 WinRT (Connection to HTTP and REST web services)\C#\RSSreader\bin\Debug\resources.pri
+C:\Users\eklein\Downloads\RSS reader - Windows Phone 8.1 WinRT (Connection to HTTP and REST web services)\C#\RSSreader\bin\Debug\AppxManifest.xml
+C:\Users\eklein\Downloads\RSS reader - Windows Phone 8.1 WinRT (Connection to HTTP and REST web services)\C#\RSSreader\bin\Debug\RSSreader.build.appxrecipe
+C:\Users\eklein\Downloads\RSS reader - Windows Phone 8.1 WinRT (Connection to HTTP and REST web services)\C#\RSSreader\obj\Debug\App.g.i.cs
+C:\Users\eklein\Downloads\RSS reader - Windows Phone 8.1 WinRT (Connection to HTTP and REST web services)\C#\RSSreader\obj\Debug\App.g.cs
+C:\Users\eklein\Downloads\RSS reader - Windows Phone 8.1 WinRT (Connection to HTTP and REST web services)\C#\RSSreader\obj\Debug\MainPage.g.i.cs
+C:\Users\eklein\Downloads\RSS reader - Windows Phone 8.1 WinRT (Connection to HTTP and REST web services)\C#\RSSreader\obj\Debug\MainPage.g.cs
+C:\Users\eklein\Downloads\RSS reader - Windows Phone 8.1 WinRT (Connection to HTTP and REST web services)\C#\RSSreader\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\eklein\Downloads\RSS reader - Windows Phone 8.1 WinRT (Connection to HTTP and REST web services)\C#\RSSreader\obj\Debug\App.xaml
+C:\Users\eklein\Downloads\RSS reader - Windows Phone 8.1 WinRT (Connection to HTTP and REST web services)\C#\RSSreader\obj\Debug\MainPage.xaml
+C:\Users\eklein\Downloads\RSS reader - Windows Phone 8.1 WinRT (Connection to HTTP and REST web services)\C#\RSSreader\obj\Debug\App.xbf
+C:\Users\eklein\Downloads\RSS reader - Windows Phone 8.1 WinRT (Connection to HTTP and REST web services)\C#\RSSreader\obj\Debug\MainPage.xbf
+C:\Users\eklein\Downloads\RSS reader - Windows Phone 8.1 WinRT (Connection to HTTP and REST web services)\C#\RSSreader\obj\Debug\XamlSaveStateFile.xml
+C:\Users\eklein\Downloads\RSS reader - Windows Phone 8.1 WinRT (Connection to HTTP and REST web services)\C#\RSSreader\obj\Debug\RSSreader.exe
+C:\Users\eklein\Downloads\RSS reader - Windows Phone 8.1 WinRT (Connection to HTTP and REST web services)\C#\RSSreader\obj\Debug\RSSreader.pdb
+C:\Users\eklein\Downloads\RSS reader - Windows Phone 8.1 WinRT (Connection to HTTP and REST web services)\C#\RSSreader\obj\Debug\priconfig.xml
+C:\Users\eklein\Downloads\RSS reader - Windows Phone 8.1 WinRT (Connection to HTTP and REST web services)\C#\RSSreader\obj\Debug\priconfig.xml.intermediate
+C:\Users\eklein\Downloads\RSS reader - Windows Phone 8.1 WinRT (Connection to HTTP and REST web services)\C#\RSSreader\obj\Debug\layout.resfiles
+C:\Users\eklein\Downloads\RSS reader - Windows Phone 8.1 WinRT (Connection to HTTP and REST web services)\C#\RSSreader\obj\Debug\layout.resfiles.intermediate
+C:\Users\eklein\Downloads\RSS reader - Windows Phone 8.1 WinRT (Connection to HTTP and REST web services)\C#\RSSreader\obj\Debug\resources.resfiles
+C:\Users\eklein\Downloads\RSS reader - Windows Phone 8.1 WinRT (Connection to HTTP and REST web services)\C#\RSSreader\obj\Debug\resources.resfiles.intermediate
+C:\Users\eklein\Downloads\RSS reader - Windows Phone 8.1 WinRT (Connection to HTTP and REST web services)\C#\RSSreader\obj\Debug\pri.resfiles
+C:\Users\eklein\Downloads\RSS reader - Windows Phone 8.1 WinRT (Connection to HTTP and REST web services)\C#\RSSreader\obj\Debug\pri.resfiles.intermediate
+C:\Users\eklein\Downloads\RSS reader - Windows Phone 8.1 WinRT (Connection to HTTP and REST web services)\C#\RSSreader\obj\Debug\qualifiers.txt
+C:\Users\eklein\Downloads\RSS reader - Windows Phone 8.1 WinRT (Connection to HTTP and REST web services)\C#\RSSreader\obj\Debug\qualifiers.txt.intermediate
+C:\Users\eklein\Downloads\RSS reader - Windows Phone 8.1 WinRT (Connection to HTTP and REST web services)\C#\RSSreader\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\eklein\Downloads\RSS reader - Windows Phone 8.1 WinRT (Connection to HTTP and REST web services)\C#\RSSreader\obj\Debug\ProjectArchitectures.txt
+C:\Users\eklein\Downloads\RSS reader - Windows Phone 8.1 WinRT (Connection to HTTP and REST web services)\C#\RSSreader\bin\Debug\FeedPicker.xbf
+C:\Users\eklein\Downloads\RSS reader - Windows Phone 8.1 WinRT (Connection to HTTP and REST web services)\C#\RSSreader\bin\Debug\PopUpUserControler.xbf
+C:\Users\eklein\Downloads\RSS reader - Windows Phone 8.1 WinRT (Connection to HTTP and REST web services)\C#\RSSreader\obj\Debug\FeedPicker.g.i.cs
+C:\Users\eklein\Downloads\RSS reader - Windows Phone 8.1 WinRT (Connection to HTTP and REST web services)\C#\RSSreader\obj\Debug\FeedPicker.g.cs
+C:\Users\eklein\Downloads\RSS reader - Windows Phone 8.1 WinRT (Connection to HTTP and REST web services)\C#\RSSreader\obj\Debug\PopUpUserControler.g.i.cs
+C:\Users\eklein\Downloads\RSS reader - Windows Phone 8.1 WinRT (Connection to HTTP and REST web services)\C#\RSSreader\obj\Debug\PopUpUserControler.g.cs
+C:\Users\eklein\Downloads\RSS reader - Windows Phone 8.1 WinRT (Connection to HTTP and REST web services)\C#\RSSreader\obj\Debug\FeedPicker.xaml
+C:\Users\eklein\Downloads\RSS reader - Windows Phone 8.1 WinRT (Connection to HTTP and REST web services)\C#\RSSreader\obj\Debug\PopUpUserControler.xaml
+C:\Users\eklein\Downloads\RSS reader - Windows Phone 8.1 WinRT (Connection to HTTP and REST web services)\C#\RSSreader\obj\Debug\FeedPicker.xbf
+C:\Users\eklein\Downloads\RSS reader - Windows Phone 8.1 WinRT (Connection to HTTP and REST web services)\C#\RSSreader\obj\Debug\PopUpUserControler.xbf

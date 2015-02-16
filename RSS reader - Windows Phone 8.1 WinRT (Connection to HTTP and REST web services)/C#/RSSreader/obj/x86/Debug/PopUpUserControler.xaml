@@ -1,0 +1,25 @@
+﻿<UserControl
+    x:Class="RSSreader.PopUpUserControler"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:RSSreader"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="300"
+    d:DesignWidth="400">
+
+    <StackPanel x:Name="LayoutRoot"  Width="400" Height="200" Background="#FFFFC700">
+        <TextBox x:ConnectionId='1' x:Name="tbxN" Text="Nommez votre flux" TextAlignment="Center" x:FieldModifier="public"                         />
+        <TextBox x:ConnectionId='2' x:Name="tbx" Text="Url Flux RSS" TextAlignment="Center" x:FieldModifier="public"                        />
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Button Grid.Column="1" x:Name="buttonOK" Content="OK" Foreground="Black" x:FieldModifier="public" HorizontalAlignment="Center"/>
+            <Button x:Name="buttonCANCEL" Content="Cancel" Foreground="Black" x:FieldModifier="public" HorizontalAlignment="Center"/>
+        </Grid>
+    </StackPanel>
+</UserControl>
+
